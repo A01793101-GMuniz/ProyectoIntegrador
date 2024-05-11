@@ -68,10 +68,12 @@ Family_ID,Proband_Relation,Age,Gender,Marital_Status,School_Years,Religion,Emplo
 121,Sister,22,Female,Single,High_school,Christian,Yes,BPI,No Pathology,No Pathology,No Pathology,Yes,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
 121,Aunt,53,Female,Married,College,No Religion,Yes,"BPI, Dependencia a anfetaminas.",No Pathology,No Pathology,No Pathology,Yes,No Pathology,No Pathology,Yes,No Pathology,No Pathology
 121,Niece,19,Female,Single,High_school,No Religion,Yes,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
+121,Uncle,50,Male,Divorced,High_school,Catholic,Yes,Trastorno de angustia con agorafobia,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
 122,Son,18,Male,Single,College,Catholic,No,Depresion Mayor,No Pathology,Yes,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
 122,Father,57,Male,Married,Middle_school,Catholic,Yes,BPI,No Pathology,No Pathology,No Pathology,Yes,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
 122,Proband,35,Male,Single,College,Catholic,No,BPI,No Pathology,No Pathology,No Pathology,Yes,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
 122,Sister,27,Female,Married,Technical_studies,Catholic,Yes,BPI,No Pathology,No Pathology,No Pathology,Yes,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
+123,Proband,46,Female,Single,Middle_school,No Religion,Yes,BPI,No Pathology,No Pathology,No Pathology,Yes,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
 123,Niece,33,Female,Married,Technical_studies,Christian,Yes,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
 123,Sister,51,Female,Married,Elementary_school,Christian,Yes,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
 123,Sister,34,Female,Married,Elementary_school,Christian,No,BPI,No Pathology,No Pathology,No Pathology,Yes,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
@@ -281,6 +283,8 @@ Family_ID,Proband_Relation,Age,Gender,Marital_Status,School_Years,Religion,Emplo
 187,Brother,39,Male,Married,College,Catholic,No,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
 187,Sister,50,Female,Married,Technical_studies,Catholic,No,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
 187,Proband,46,Male,Divorced,Middle_school,Catholic,Yes,BPI,No Pathology,No Pathology,No Pathology,Yes,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
+187,Son,46,Male,Married,College,No Religion,Yes,BPI,No Pathology,No Pathology,No Pathology,Yes,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
+187,Son,34,Male,Married,College,Catholic,Yes,BPI,No Pathology,No Pathology,No Pathology,Yes,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
 102,Mother,66,Female,Married,Technical_studies,Catholic,No,Depresion Mayor en Remision,No Pathology,Yes,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
 103,Sister,46,Female,Married,Middle_school,Catholic,Yes,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
 114,Brother,19,Male,Single,College,Catholic,No,BPI,No Pathology,No Pathology,No Pathology,Yes,No Pathology,No Pathology,No Pathology,No Pathology,No Pathology
